@@ -3,18 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - InspectPoint
+  - ItemName
+  - ExaminePoint
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Postprocess
   - Water
   - UI
   - 
   - 
-  - 
-  - 
+  - ExamineLayer
+  - InspectPointLayer
   - 
   - 
   - 
